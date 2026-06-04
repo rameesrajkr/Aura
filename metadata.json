@@ -1,0 +1,6 @@
+{
+  "name": "Aura Matchmaking",
+  "description": "Bespoke matchmaking and relationship concierge for highly accomplished, discerning professionals seeking genuine lifelong partnerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
