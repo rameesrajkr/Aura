@@ -54,7 +54,7 @@ export default function Hero({ onApplyClick }: HeroProps) {
           referrerPolicy="no-referrer"
         />
         {/* Dark elegant editorial mask overlay */}
-        <div className="absolute inset-0 bg-gradient-to-t from-brand-primary via-brand-primary/70 to-brand-primary/95 z-10" />
+        <div className="absolute inset-0 bg-gradient-to-t from-brand-primary via-brand-primary/60 to-transparent lg:bg-gradient-to-r lg:from-brand-primary/95 lg:via-brand-primary/70 lg:to-transparent z-10" />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_20%,#1a2332_100%)] opacity-90 z-10" />
       </div>
 
