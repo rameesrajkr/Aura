@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { ArrowRight, ShieldCheck, Award, Globe, Users } from "lucide-react";
 
-const heroImg = "/src/assets/images/luxury_couple_hero_1780602919287.png";
+const heroImg = "https://drive.google.com/file/d/1ZN-0QmQ8aE04Oy-5A0CcBn4C4_hzjGWJ/view?usp=sharing";
 
 interface HeroProps {
   onApplyClick: (tierId?: string) => void;
